@@ -10,7 +10,7 @@
 
 📍 JWT Token Authorization and Security
 
-❗In Development!
+❗ In Development!
 
 Made with love by Gergana ™
 
